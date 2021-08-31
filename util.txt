@@ -1,0 +1,4 @@
+font awesome -- tem varios imagens de varios icones 
+onde podemos usar essas imagens sem precisar baixalas
+
+owlcarousel2 -- plugin
